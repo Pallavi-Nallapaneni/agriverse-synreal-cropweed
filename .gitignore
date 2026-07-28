@@ -1,0 +1,18 @@
+# Python environment
+.venv/
+
+# Datasets (large files)
+data/
+
+# YOLO training outputs
+runs/
+
+# Experiment results
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO weights
+*.pt

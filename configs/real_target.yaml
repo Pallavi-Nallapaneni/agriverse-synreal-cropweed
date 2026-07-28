@@ -1,0 +1,8 @@
+path: ../data/real_target
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 2
+names: ['maize', 'weed']
