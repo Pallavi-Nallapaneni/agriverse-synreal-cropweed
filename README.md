@@ -13,18 +13,16 @@ quantifying the synthetic-to-real domain gap.
 
 
 <p align="center">
-
-&#x20; <img src="assets/sample\_images/train\_sample\_01.png" width="30%">
-
-&#x20; <img src="assets/sample\_images/val\_sample\_01.png" width="30%">
-
-&#x20; <img src="assets/sample\_images/test\_sample\_01.png" width="30%">
-
+  <img src="assets/sample_images/train_sample_01.png" width="30%">
+  <img src="assets/sample_images/val_sample_01.png" width="30%">
+  <img src="assets/sample_images/test_sample_01.png" width="30%">
 </p>
 
-<p align="center"><sub>Sample synthetic renders from the AgriVerse dataset (train/val/test).</sub></p>
-
-
+<p align="center">
+<sub>
+Sample synthetic AgriVerse renders from training, validation and testing splits.
+</sub>
+</p>
 
 \## Motivation
 
