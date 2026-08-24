@@ -9,4 +9,4 @@ scikit-learn
 matplotlib
 seaborn
 PyYAML
-jupyter
+jupyteralbumentations>=1.4.0

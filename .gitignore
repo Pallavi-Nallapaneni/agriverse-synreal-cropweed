@@ -1,5 +1,6 @@
 # Python environment
 .venv/
+agriverse-venv/
 
 # Datasets (large files)
 data/
@@ -16,3 +17,20 @@ __pycache__/
 
 # YOLO weights
 *.pt
+
+# ROS 2 generated files
+build/
+install/
+log/
+
+# Generated analysis outputs
+error_analysis_visuals/
+*_per_image.csv
+annotated_test.png
+
+# Temporary / backup files
+*.bak
+*.backup
+*~
+*.swp
+*.pyxxo*
