@@ -1,0 +1,8 @@
+path: ../data/agriverse
+train: images/train_combined
+val: images/val
+test: images/test
+nc: 2
+names:
+  0: maize
+  1: weed
